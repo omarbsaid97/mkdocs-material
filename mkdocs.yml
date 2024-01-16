@@ -34,7 +34,7 @@ repo_url: https://github.com/squidfunk/mkdocs-material
 copyright: Copyright &copy; 2016 - 2024 Martin Donath
 
 # Configuration
-theme:
+theme:name: material
   name: material
   custom_dir: material/overrides
   features:
